@@ -2,7 +2,7 @@
 
 My name is Calvin He「何世伟」, currently a first-year master's student at NYU Courant.
 
-- 🔭 I’m currently working on full-stack web development, using Data Science models to solve business and real-world problems, and also a bit of systematic trading/investing in the financial realm.
+- 🔭 I’m currently working on full-stack web development, jazz chords recognition and pattern discovering on guitar, also a bit of systematic trading/investing in the financial realm
 - 🌱 I’m currently learning React.js, models in Data Science, foundations in systematic trading
 - 👯 I’m looking to collaborate on web dev, GenAI, and all the fun stuff
 - 🤔 I’m looking for help with how to improve my fast wireframing skills
