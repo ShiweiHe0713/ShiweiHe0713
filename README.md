@@ -11,10 +11,6 @@ My name is Calvin He「何世伟」, currently a first-year master's student at 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm also a musician and content creator
 
-### 🛠 My Leetcode feat
-
-<img width="865" alt="image" src="https://github.com/ShiweiHe0713/ShiweiHe0713/assets/67429121/2dfff106-cb38-4ff9-b89b-f3a9a67527ca">
-
 
 <!--
 **ShiweiHe0713/ShiweiHe0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
