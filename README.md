@@ -10,7 +10,7 @@ My name is Calvin He「何世伟」, currently a first-year master's student at 
 - 📫 How to reach me: sh7787@nyu.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm also a musician and content creator
-- 🏳️‍🌈 Check out [my digital space](shiwei.super.site)!
+- 🏳️‍🌈 Check out [my digital space](https://shiwei.super.site)!
 
 
 <!--
