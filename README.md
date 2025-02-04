@@ -7,7 +7,7 @@ My name is Calvin He「何世伟」, currently a first-year master's student at 
 - 👯 I’m looking to collaborate on web dev, GenAI, and all the fun stuff
 - 🤔 I’m looking for help with how to improve my fast wireframing skills
 - 💬 Ask me about Technology, music, traveling, and life in NYC
-- 📫 How to reach me: sh7787@nyu.edu
+- 📫 How to reach me: starriohe@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm also a musician and content creator
 - 🏳️‍🌈 Check out [my digital space](https://shiwei.super.site)!
