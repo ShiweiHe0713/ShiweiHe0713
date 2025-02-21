@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Calvin He「何世伟」, currently a master's student at NYU Courant, SWE intern @Julius and @endlessfrointerlabs.
+My name is Shiwei He「何世伟」, currently a SWE intern at Julius and Endless Frontier Labs, and a master's student at NYU Courant.
 
 - 🔭 I’m currently working on full-stack web development, jazz chords recognition and pattern discovering on guitar, also a bit of systematic trading/investing in the financial realm
 - 🌱 I’m currently learning React.js, models in Data Science, foundations in systematic trading
