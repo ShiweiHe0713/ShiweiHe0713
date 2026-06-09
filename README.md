@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-My name is Shiwei He「何世伟」, currently a SWE intern at Julius and Endless Frontier Labs, and a master's student at NYU Courant.
+My name is Shiwei He「何世伟」, currently a SWE at Meta.
 
-- 🔭 I’m currently working on full-stack web development, jazz chords recognition and pattern discovering on guitar, also a bit of systematic trading/investing in the financial realm
-- 🌱 I’m currently learning React.js, models in Data Science, foundations in systematic trading
-- 👯 I’m looking to collaborate on web dev, GenAI, and all the fun stuff
-- 🤔 I’m looking for help with how to improve my fast wireframing skills
 - 💬 Ask me about Technology, music, traveling, and life in NYC
-- 📫 How to reach me: starriohe@gmail.com
-- 😄 Pronouns: He/him
+- 📫 How to reach me: shiwei.swe@gmail.com
+- 🏳️‍🌈 Pronouns: He/him
 - ⚡ Fun fact: I'm also a musician and content creator
-- 🏳️‍🌈 Check out [my digital space](https://shiwei.super.site)!
 
 
 <!--
